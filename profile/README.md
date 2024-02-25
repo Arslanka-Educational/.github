@@ -9,7 +9,13 @@
 | [Databases: basic model](https://github.com/Arslanka-Educational/db-lab-basic)  | SQL migrations, CI on Shell |
 
 
-## Aditional
+### Computer Architecture
+| Project                                                                                                             | Stack    |
+| ------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Paper: Database scaling (replication, partitioning, sharding](https://github.com/Arslanka-Educational/db-scaling)  | Markdown |
+
+
+## Additional
 ### Rust
 
 | Project                                                                         | Stack                       |
