@@ -12,7 +12,7 @@
 ### Computer Architecture
 | Project                                                                                                             | Stack    |
 | ------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Paper: Database scaling (replication, partitioning, sharding](https://github.com/Arslanka-Educational/db-scaling)  | Markdown |
+| [Paper: Database scaling (replication, partitioning, sharding)](https://github.com/Arslanka-Educational/db-scaling)  | Markdown |
 
 
 ## Additional
