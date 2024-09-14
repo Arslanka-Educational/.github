@@ -55,3 +55,14 @@
 ### Software Testing
 [Software Testing: Unit tests for domain models](https://github.com/Arslanka-Educational/software-testing) (`Kotlin`, `Junit5`)
 
+## Mobile
+[SmartHouse App](https://github.com/Arslanka-Educational/SmartHouse/tree/main) (`Kotlin`, `Redis`, `PostgreSQL`, `ClickHouse`, `Android`)
+
+## Business Logic
+[OpenBook](https://github.com/Arslanka-Educational/OpenBook) (`Kotlin`, `PostgreSQL`, `Spring Security`, `Spring Boot`)
+
+
+
+
+
+
